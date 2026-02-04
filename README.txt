@@ -68,3 +68,48 @@ The objective is to analyze historical sales performance and forecast future sal
 ---
 
 ## 📁 Project Structure
+
+Sales_Forecasting_Dashboard/
+│
+├── data/
+│ ├── raw_sales.csv
+│ ├── clean_sales_data.csv
+│ └── sales_forecast.csv
+│
+├── scripts/
+│ ├── etl_pipeline.py
+│ └── sales_forecast_model.py
+│
+├── Sales_Forecasting_Dashboard.pbix
+└── README.md
+
+
+---
+
+## ▶️ How to Run the Project
+1. Navigate to the project directory
+2. Run ETL pipeline:
+
+
+python scripts/etl_pipeline.py
+
+3. Run sales forecasting model:
+
+
+python scripts/sales_forecast_model.py
+
+4. Open the Power BI file and refresh data
+
+---
+
+## 🎯 Key Learnings
+- End-to-end data pipeline development
+- Sales trend and performance analysis
+- Forecasting business metrics
+- Building executive-level Power BI dashboards
+
+---
+
+## 👤 Author
+**Sahana D**  
+GitHub: https://github.com/sahanad14
