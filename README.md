@@ -58,6 +58,10 @@ The objective is to analyze historical sales performance and forecast future sal
 ---
 
 ## 📈 Power BI Dashboard Features
+
+<img width="875" height="730" alt="dashboard" src="https://github.com/user-attachments/assets/a4c98781-17be-48b6-af14-6d5432eaae34" />
+
+
 - Total Sales, Profit, and Quantity KPIs
 - Monthly Sales Trend
 - Region-wise Sales Comparison
